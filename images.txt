@@ -2,3 +2,4 @@
 registry.k8s.io/metrics-server/metrics-server:v0.7.1
 kubernetesui/dashboard:v2.7.0
 docker.io/prom/node-exporter:latest
+eipwork/kuboard:v3
