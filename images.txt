@@ -4,3 +4,4 @@ kubernetesui/dashboard:v2.7.0
 docker.io/prom/node-exporter:latest
 eipwork/kuboard:v3
 --platform=linux/arm64 bitnami/mysql:8.0.40
+--platform=linux/arm64 registry.k8s.io/pause:3.10
